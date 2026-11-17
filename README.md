@@ -1,0 +1,1 @@
+Crea la clase Profesor con los atributos privados nombre, salario y departamento. • Constructor, getters, setters, toString() y mostrarInformacion(). • El salario no puede ser negativo (el 0 sí es válido). nombre y departamento no pueden estar vacíos. Clase de prueba: TestProfesor. Prueba también cambiar el salario a un valor negativo y a 0.
